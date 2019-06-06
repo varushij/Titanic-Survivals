@@ -1,5 +1,5 @@
 # Titanic-Survivals
-Titanic Survivals (Kaggle competition) \s\s
+Titanic Survivals (Kaggle competition) <br />
 The Titanic tragedy is something everyone is aware of. Many innocent people died in this tragedy, making it one of the most tragic shipwreck in history. \s\s
 In this project we aim to analyse the different types of people who had higher chances of survival in this tragdedy.\s\s
 This is a supervised binary classsification problem, where we try to predict the survival of passengers based on various factors like the class in which they were travelling, passenger's age and gender etc.
