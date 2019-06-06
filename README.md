@@ -24,3 +24,13 @@ To run this project, following libraries needs to be installed -
 **Finally, Decision Trees model was used on the test set to make the prediction of survival rate of passengers as it had the highest accuracy.**
 
 __This submission on Kaggle secured a public score of 0.77511.__
+
+# References
+https://realpython.com/python-data-cleaning-numpy-pandas/ <br />
+http://www.titanicandco.com/inside.html <br />
+https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/ <br />
+https://www.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html <br />
+https://towardsdatascience.com/supervised-machine-learning-classification-5e685fe18a6d <br />
+https://blog.goodaudience.com/machine-learning-using-logistic-regression-in-python-with-code-ab3c7f5f3bed <br />
+https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/ <br />
+https://towardsdatascience.com/precision-vs-recall-386cf9f89488 <br />
