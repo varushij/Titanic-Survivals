@@ -1,9 +1,8 @@
 # Titanic-Survivals
-Titanic Survivals (Kaggle competition)
-I think you should use an
-`<addr>` element here instead.
-
-# Getting Started
+Titanic Survivals (Kaggle competition) \s\s
+The Titanic tragedy is something everyone is aware of. Many innocent people died in this tragedy, making it one of the most tragic shipwreck in history. \s\s
+In this project we aim to analyse the different types of people who had higher chances of survival in this tragdedy.\s\s
+This is a supervised binary classsification problem, where we try to predict the survival of passengers based on various factors like the class in which they were travelling, passenger's age and gender etc.
 
 
 # Prerequisites
@@ -15,3 +14,11 @@ To run this project, following libraries needs to be installed -
 * Missingno
 * Seaborn
 * Sklearn
+
+# Algorithms used
+* Logistic Regression
+* K-Nearest Neighbor
+* Support Vector Machines
+* Naive Bayes
+* Decision Trees
+**Finally, Decision Trees model was used on the test set to make the prediction of survival rate of passengers as it had the highest accuracy.**
